@@ -1,0 +1,7 @@
+ultralytics==8.3.0
+pillow
+opencv-python
+matplotlib
+tqdm
+pytesseract
+numpy

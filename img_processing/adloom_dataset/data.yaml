@@ -1,0 +1,12 @@
+train: train/images
+val: valid/images
+
+nc: 6
+names: ['digital-board', 'digital-board-big', 'digital-board-medium', 'mupi', 'poster', 'rectangle-wide-board']
+
+roboflow:
+  workspace: vc-olicd
+  project: my-first-project-7clvi
+  version: 4
+  license: Public Domain
+  url: https://universe.roboflow.com/vc-olicd/my-first-project-7clvi/dataset/4
